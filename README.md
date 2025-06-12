@@ -75,7 +75,7 @@ Analyze computer logs documenting student interactions with online statistics te
 ## 🧾 Files
 
 - 📘 [`DataFest_Methadology.ipynb`](DataFest_Methadology.ipynb) — MLP code & results
-- 📄 [`ASA_DataFest_2024_-_Team9.pdf`](ASA_DataFest_2024_-_Team9_(1).pdf) — Full report with visuals
+- 📄 [`ASA_DataFest_2024_Team9.pdf`](ASA_DataFest_2024_Team9.pdf) — Full report with visuals
 
 ---
 
